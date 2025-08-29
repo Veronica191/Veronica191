@@ -1,101 +1,90 @@
-<!-- 
-✨ GitHub Profile Revamp Template for ALX Learners ✨
+<!-- Veronica191's GitHub Profile README -->
 
-Instructions:
-- Replace [placeholders] with your information.
-- Customize the sections to reflect your experience, passion, and aspirations.
-- Use this as your main README.md in your GitHub profile repository for a standout impression!
--->
-
-<h1 align="center">Hi there 👋, I'm Veronica </h1>
-<h3 align="center">Aspiring Software Engineer & ALX [Your Program] Learner</h3>
-
----
+<h1 align="center">Hi there 👋, I'm Veronica!</h1>
+<h3 align="center">Aspiring Front-End Web Developer | ALX Learner | Passionate About Responsive Design</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding gif" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **[ALX Program, e.g., Software Engineering, Data Science, etc.]**
-- 👨‍💻 I started my journey in software engineering because:  
-  <strong>[insert: what inspired you, what you're passionate about]</strong>
-- 🔭 My vision is to:  
-  <strong>[insert your vision/mission statement]</strong>
-- 💡 I am passionate about:  
-  <strong>[insert: key interests, technologies, or causes]</strong>
-- 🌟 The types of projects I want to work on:  
-  <strong>[insert: e.g., open-source, AI/ML, web/mobile apps, fintech, etc.]</strong>
+🌱 I’m an enthusiastic learner at **ALX**, on a journey to become a standout **Front-End Web Developer**.  
+🚀 My passion: **Creating beautiful, responsive, and user-friendly websites** that bring ideas to life.  
+💡 What inspires me: The endless possibilities of the web and how design and code can impact the world.  
+🎯 My goal: To become a professional **Software Developer** and make a difference in the tech industry.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <!-- Add more badges as needed -->
-</p>
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** (Add any you’re learning—e.g., React, Bootstrap)
+- **Tools:** Git & GitHub, VS Code, Chrome DevTools
+- **Soft Skills:** Problem-solving, Teamwork, Communication
+
+---
+
+## 🌟 Projects
+
+- [Project Name 1](#) — Short description (e.g., “A responsive portfolio website built with HTML, CSS, and JS”)
+- [Project Name 2](#) — Short description (e.g., “Interactive web app for task management”)
+- [Project Name 3](#) — Short description
+
+<details>
+  <summary>See more projects...</summary>
+  
+  - [Project Name 4](#) — Description
+  - [Project Name 5](#) — Description
+
+</details>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Veronica191&show_icons=true&theme=radical" alt="Veronica191's stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veronica191&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica191&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌱 My Current Learning Path
+## 📫 Connect with Me
 
-- [ ] [ALX Project 1 or Module]
-- [ ] [ALX Project 2 or Module]
-- [ ] [Other relevant learning goals]
-
----
-
-## 💬 Let's Connect!
-
-<p>
-  <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/[your-twitter]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <!-- Add more links as needed -->
-</p>
+- [LinkedIn](#) <!-- Add your LinkedIn URL -->
+- [Twitter / X](#) <!-- Add your Twitter/X handle -->
+- [Personal Website](#) <!-- Add your website if you have one -->
 
 ---
 
-## 📝 Featured Projects
+## 🌱 Learning & Growth
 
-<!-- Showcase 2-3 of your top or most relevant projects -->
-- [Project Name 1](https://github.com/[YourGitHubUsername]/[repo])  
-  <sub>[Brief description of the project and what technologies you used]</sub>
-- [Project Name 2](https://github.com/[YourGitHubUsername]/[repo])  
-  <sub>[Brief description of the project and what technologies you used]</sub>
-- [Project Name 3](https://github.com/[YourGitHubUsername]/[repo])  
-  <sub>[Brief description of the project and what technologies you used]</sub>
+- 🔭 **Currently learning:** Deepening my JavaScript, HTML, and CSS skills
+- 🚀 **Next steps:** Exploring frameworks like React and building real-world projects
+- 🤝 **Open to:** Collaborations, mentorships, and exciting opportunities in web development
 
 ---
 
-## ✍️ Quote / Inspiration
+## 🎨 Fun Fact
 
-> “[Insert your favorite quote or motto here]”
+> “Great web design without functionality is like a sports car with no engine.”  
+> — Paul Cookson
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<!--
+**Veronica191/Veronica191** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
+-->
+
+
+
+
+
