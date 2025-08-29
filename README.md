@@ -59,8 +59,8 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL -->
-- [Twitter / X](#) <!-- Add your Twitter/X handle -->
+- [LinkedIn](#) <https://www.linkedin.com/in/veronica-akwojinga-031269287>
+- [Email](#) <veronijinga2003@gmail.com>
 - [Personal Website](#) <!-- Add your website if you have one -->
 
 ---
