@@ -7,7 +7,7 @@ Instructions:
 - Use this as your main README.md in your GitHub profile repository for a standout impression!
 -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Veronica </h1>
 <h3 align="center">Aspiring Software Engineer & ALX [Your Program] Learner</h3>
 
 ---
