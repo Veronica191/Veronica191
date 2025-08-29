@@ -30,8 +30,8 @@
 ## 🌟 Projects
 
 - [Project Name 1](#) — Short description (e.g., “A responsive portfolio website built with HTML, CSS, and JS”)
-- [Project Name 2](#) — Short description (e.g., “Interactive web app for task management”)
-- [Project Name 3](#) — Short description
+- [Project Name 2](#) —  Centrallive Radio Internship
+- [Project Name 3](#) — SlimFile – Digital Promotion Project
 
 <details>
   <summary>See more projects...</summary>
